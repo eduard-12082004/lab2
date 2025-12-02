@@ -64,10 +64,9 @@ class _HomePageState extends State<HomePage> {
 
   Future<void> _fetchWeather() async {
     // Проверка API ключа
-    if (WeatherConfig.apiKey == 'ваш_ключ_здесь') {
+    if (WeatherConfig.apiKey == '0b2cc7ba34bc464b9ed131648250112') {
       setState(() {
-        _errorMessage =
-            'Замените API ключ в файле config.dart\nПолучите на weatherapi.com';
+        _errorMessage = 'Ошибка';
         _isLoading = false;
       });
       return;
