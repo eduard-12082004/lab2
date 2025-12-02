@@ -1,11 +1,11 @@
 {
   "roots": [
-    "weather"
+    "weather_app"
   ],
   "packages": [
     {
-      "name": "weather",
-      "version": "1.0.0+1",
+      "name": "weather_app",
+      "version": "1.0.0",
       "dependencies": [
         "flutter",
         "http"
@@ -17,7 +17,7 @@
     },
     {
       "name": "flutter_lints",
-      "version": "2.0.3",
+      "version": "3.0.2",
       "dependencies": [
         "lints"
       ]
@@ -42,11 +42,12 @@
     },
     {
       "name": "http",
-      "version": "0.13.6",
+      "version": "1.6.0",
       "dependencies": [
         "async",
         "http_parser",
-        "meta"
+        "meta",
+        "web"
       ]
     },
     {
@@ -63,7 +64,7 @@
     },
     {
       "name": "lints",
-      "version": "2.1.1",
+      "version": "3.0.0",
       "dependencies": []
     },
     {
@@ -149,6 +150,11 @@
         "string_scanner",
         "term_glyph"
       ]
+    },
+    {
+      "name": "web",
+      "version": "1.1.1",
+      "dependencies": []
     },
     {
       "name": "http_parser",

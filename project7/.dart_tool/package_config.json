@@ -45,9 +45,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/Eduard/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3",
+      "rootUri": "file:///C:/Users/Eduard/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "flutter_test",
@@ -57,9 +57,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/Eduard/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6",
+      "rootUri": "file:///C:/Users/Eduard/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.6.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "http_parser",
@@ -87,7 +87,7 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/Eduard/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.1",
+      "rootUri": "file:///C:/Users/Eduard/AppData/Local/Pub/Cache/hosted/pub.dev/lints-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -176,10 +176,16 @@
       "languageVersion": "3.5"
     },
     {
-      "name": "weather",
+      "name": "web",
+      "rootUri": "file:///C:/Users/Eduard/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "weather_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     }
   ],
   "generator": "pub",
